@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GithubApiApplication<githubAPI>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.stage.Gestion_Utilisateur.GithubApiApplication",
+            "projectName": "githubAPI",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-GithubApiApplication<githubAPI>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.stage.SwanTest.GithubApiApplication",
+            "projectName": "githubAPI",
+            "args": ""
+        }
+    ]
+}
